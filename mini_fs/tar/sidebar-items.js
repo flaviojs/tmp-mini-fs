@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Tar","Tar archive."],["TarEntry","Entry in the Tar archive."]]});
